@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nadeem</h1>
-<h3 align="center">👨‍💻 Senior Software Engineer | .NET | Node.js | Technical Leader</h3>
+<h3 align="center">👨‍💻 Senior Technical Lead & Software Architect | .NET & Node.js Specialist </h3>
 
 ---
 
 ### 💼 About Me
 
-- 🔭 I’m currently working as a **Senior Technical Lead** building scalable enterprise solutions using `.NET Core`, `Node.js`, and `React/Next.js`
+- 🔭 I’m currently working as a **Senior Technical Lead & Software Architect** building scalable enterprise solutions using `.NET Core`, `REST APIs`, `Node.js`, `WebSockets` and `React/Next.js`
 - 💬 Ask me about:
   - Backend Architecture
   - JWT Authentication
@@ -21,31 +21,37 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4c1?style=for-the-badge&logo=websocket&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
+
 ### 📂 Featured Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **ClinicAPI** | ASP.NET Core API with JWT, Swagger, EF Core | [🔗 GitHub](https://github.com/yourusername/ClinicAPI) |
-| **NextCare** | Next.js + ASP.NET API fullstack healthcare system | [🔗 GitHub](https://github.com/yourusername/NextCare) |
-| **DotNet-JWT-Demo** | Secure Auth System with .NET 8 & JWT | [🔗 GitHub](https://github.com/yourusername/DotNet-JWT-Demo) |
+| **API Gateway Server** | ASP.NET Core API with JWT, C#, Swagger, SQL Server | [🌐 Project Page](https://mnadeem-portfolio.vercel.app/projects/aspnet-webapi) |
+| **WebSocket Gateway Server** | Node.js, WS-WebSocket Lib, Express.js, JWT| [🌐 Project Page](https://mnadeem-portfolio.vercel.app/projects/websocket-server) |
+| **Smart-Dental Web Portal** | Node.js, React, Next.js, Typescript | [🌐 Project Page](https://mnadeem-portfolio.vercel.app/projects/web-portal) |
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-nadeem-a3321ba4/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadw95@yahoo.com)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnadeem-dev&show_icons=true&theme=default)
 
 ---
 
