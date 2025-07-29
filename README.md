@@ -3,13 +3,20 @@
 
 ---
 
+### 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnadeem-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-nadeem-a3321ba4/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadw95@yahoo.com)
+
+---
 ### 💼 About Me
 
-- 🔭 I’m currently working as a **Senior Technical Lead & Software Architect** building scalable enterprise solutions using `.NET Core`, `REST APIs`, `Node.js`, `WebSockets` and `React/Next.js`
+- 🔭 **Senior Technical Lead & Software Architect** building scalable enterprise solutions using `.NET Core`, `REST APIs`, `Node.js`, `WebSockets` and `React/Next.js`
 - 💬 Ask me about:
   - Backend Architecture
   - API Gateways
-  - WebSocket Gateways - Real-time apps using WebSockets
+  - WebSocket Gateways - Real-time apps
   - CI/CD with Azure DevOps
 - 👨‍🏫 Passionate about sharing knowledge and mentoring junior developers
 
@@ -29,7 +36,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ---
 
 ### 📂 Featured Projects
@@ -37,15 +43,9 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | **API Gateway Server** | ASP.NET Core API with JWT, C#, Swagger, SQL Server | [🌐 Live Demo](https://healthcare-webapi.azurewebsites.net/swagger/index.html),  [GitHub Code](https://github.com/mnadeem-dev/portfolio-nextjs-app) |
-| **WebSocket Gateway Server** | Node.js, WS-WebSocket Lib, Express.js, JWT| [🌐 Showcase Page](https://mnadeem-portfolio.vercel.app/projects/websocket-server) |
-| **Smart-Dental Web Portal** | Node.js, React, Next.js, Typescript | [🌐 Showcase Page](https://mnadeem-portfolio.vercel.app/projects/web-portal) |
+| **WebSocket Gateway Server** | Node.js, WS-WebSocket Lib, Express.js, JWT| [🌐 Project Detail](https://mnadeem-portfolio.vercel.app/projects/websocket-server) |
+| **Smart-Dental Web Portal** | Node.js, React, Next.js, Typescript | [🌐 Project Detail](https://mnadeem-portfolio.vercel.app/projects/web-portal) |
 
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-nadeem-a3321ba4/)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadw95@yahoo.com)
 
 ---
 
