@@ -7,7 +7,8 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnadeem-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-nadeem-a3321ba4/)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadw95@yahoo.com)
+[![YouTube URL](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@FastCodingPoint)
+[![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadw95@yahoo.com)
 
 ---
 ### 💼 About Me
@@ -30,11 +31,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+[![AI Integration](https://img.shields.io/badge/🤖_LLM_Integration-4B8DF8?style=for-the-badge&logo=openai&logoColor=white)](#)
+
 ![WebSocket](https://img.shields.io/badge/WebSocket-4c1?style=for-the-badge&logo=websocket&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
 
 ---
 
