@@ -8,8 +8,8 @@
 - 🔭 I’m currently working as a **Senior Technical Lead & Software Architect** building scalable enterprise solutions using `.NET Core`, `REST APIs`, `Node.js`, `WebSockets` and `React/Next.js`
 - 💬 Ask me about:
   - Backend Architecture
-  - JWT Authentication
-  - Real-time apps using WebSockets
+  - API Gateways
+  - WebSocket Gateways - Real-time apps using WebSockets
   - CI/CD with Azure DevOps
 - 👨‍🏫 Passionate about sharing knowledge and mentoring junior developers
 
@@ -36,9 +36,9 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **API Gateway Server** | ASP.NET Core API with JWT, C#, Swagger, SQL Server | [🌐 Project Page](https://mnadeem-portfolio.vercel.app/projects/aspnet-webapi) |
-| **WebSocket Gateway Server** | Node.js, WS-WebSocket Lib, Express.js, JWT| [🌐 Project Page](https://mnadeem-portfolio.vercel.app/projects/websocket-server) |
-| **Smart-Dental Web Portal** | Node.js, React, Next.js, Typescript | [🌐 Project Page](https://mnadeem-portfolio.vercel.app/projects/web-portal) |
+| **API Gateway Server** | ASP.NET Core API with JWT, C#, Swagger, SQL Server | [🌐 Live Demo](https://healthcare-webapi.azurewebsites.net/swagger/index.html),  [GitHub Code](https://github.com/mnadeem-dev/portfolio-nextjs-app) |
+| **WebSocket Gateway Server** | Node.js, WS-WebSocket Lib, Express.js, JWT| [🌐 Showcase Page](https://mnadeem-portfolio.vercel.app/projects/websocket-server) |
+| **Smart-Dental Web Portal** | Node.js, React, Next.js, Typescript | [🌐 Showcase Page](https://mnadeem-portfolio.vercel.app/projects/web-portal) |
 
 ---
 
@@ -57,19 +57,3 @@
 
 > 🔥 Let’s build useful, real-world, open-source tools that help developers & businesses.
 
-
-
-<!--
-**mnadeem-dev/mnadeem-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
