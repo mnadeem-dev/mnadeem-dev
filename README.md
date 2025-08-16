@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nadeem</h1>
-<h3 align="center">👨‍💻 Principal Software Architect & Software Development Manager | .NET, Node.js, Azure, AI | </h3>
+<h3 align="center">👨‍💻 Principal Software Architect & Software Development Manager | .NET, Node.js, Azure, AI </h3>
 
 ---
 
