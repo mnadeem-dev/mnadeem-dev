@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nadeem</h1>
-<h3 align="center">👨‍💻 Principal Software Architect & Software Development Manager | .NET, Node.js, Azure, AI </h3>
+<h3 align="center"> 👨‍💻 Seasoned Software Architect | Solutions & Technology Leader </h3>
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 ### 💼 About Me
 
-- 🔭 **Principal Software Architect & Software Development Manager** shaping technology vision and delivering scalable cloud & real-time enterprise solutions using `.NET Core`, `REST APIs`, `Node.js`, `WebSockets` and `React/Next.js`
+- 🔭 **Seasoned Software Architect & Technology Leader**  with 20+ years of experience in designing scalable APIs, real-time systems, and cloud-native applications. Passionate about clean architecture, modern web platforms, and mentoring teams to deliver impactful solutions using `.NET Core`, `Node.js`, `REST APIs`, `WebSockets` and `React/Next.js`
 - 💬 Ask me about:
   - Backend Architecture
   - API Gateways
